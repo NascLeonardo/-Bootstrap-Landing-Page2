@@ -1,0 +1,23 @@
+body{
+  width: 100vw;
+  height: 100vh;
+  background-color: aliceblue;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.btn-primary{
+  background-color: red;
+  border: none;
+}
+.btn-primary:hover,.btn-primary:active{
+  background-color: rgb(135, 0, 0);
+}
+a{
+  color:red;
+}
+a:hover,a:active{
+  color:rgb(135, 0, 0);
+}
+.text-primary{
+  color:red !important;
+}
